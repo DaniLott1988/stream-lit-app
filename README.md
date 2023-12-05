@@ -1,9 +1,8 @@
 # Project Name
 
-example image:
+Project App can be found live at:
 
-
-![alternative text](reports/img/pic01.jpg)
+https://around-globe-volcanoes.streamlit.app/
 
 
 #### -- Project Status: [Active, On-Hold, Completed]
