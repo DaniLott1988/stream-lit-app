@@ -1,37 +1,20 @@
-# Project Name
+# Volcanoes Around the Globe
 
 Project App can be found live at:
 
 https://around-globe-volcanoes.streamlit.app/
 
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: Completed
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to create a functional Streamlit App.
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact]
-* If you do not have a partner leave this section out
-
-### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
 
 ### Technologies
-* R
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
+* Plotly
+* Streamlit
 
 ## Project Description
 (Provide more detailed overview of the project.
